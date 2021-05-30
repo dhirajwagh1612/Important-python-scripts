@@ -26,3 +26,5 @@ step 3 - select new name for that will contain our data.
 step 4 - choose message to show after hide our file
 step 5 - hide message using .hide function
 step 6 - check the script text
+
+6. Test Internet speed using python using speedtest module
